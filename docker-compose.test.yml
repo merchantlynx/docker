@@ -2,4 +2,4 @@ version: '2'
 services:
   sut:
     build: .
-    command: docker info
+    command: docker
